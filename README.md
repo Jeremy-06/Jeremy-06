@@ -1,6 +1,8 @@
+<span>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=28&pause=2000&color=87CEEB&center=true&vCenter=true&width=435&lines=Hello+World%2C+I'm+Jeremy!;" alt="Typing SVG" />
 </p>
+</span>
 
 ---
 
@@ -27,9 +29,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="48" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL/SQL" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="48" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="48" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" width="48" height="48" />
   </p>
 </span>
 
@@ -45,6 +47,7 @@
 
 ## 🔗 Connect with me
 
+<span>
 <p align="center">
   <a href="" title="LinkedIn" style="margin: 0 24px;">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="56" height="56" />
@@ -59,6 +62,7 @@
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="56" height="56" />
   </a>
 </p>
+</span>
 
 
 ---
