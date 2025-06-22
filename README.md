@@ -39,8 +39,8 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jeremy-06&show_icons=true&cache_seconds=1800&theme=radical" alt="Jeremy's GitHub stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeremy-06&layout=compact&cache_seconds=1800&theme=radical" alt="Top Langs" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jeremy-06&show_icons=true&cache_seconds=1800&theme=radical" alt="Jeremy's GitHub stats" width="400" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeremy-06&layout=compact&cache_seconds=1800&theme=radical" alt="Top Langs" width="400" height="150"/>
 </p>
 
 ---
