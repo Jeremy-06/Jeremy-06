@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎯 I have experience with: **C++, Visual Basic, HTML, CSS, C#, SQL**
+- 🎯 Proficient in: **C++, Visual Basic, HTML, CSS, C#, SQL**
 - 🛠️ Currently applying these languages in various projects to master them
 - 📚 Interested in web development, databases, and software engineering
 - 🤝 Open to collaborating on student projects, open-source, or hackathons
