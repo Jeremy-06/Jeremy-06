@@ -1,4 +1,4 @@
-# Hi there, I'm Jeremy!
+# Hello World, I'm Jeremy!
 
 🎓 **IT Student** | 💡 Tech Enthusiast | 🚀 Lifelong Learner
 
