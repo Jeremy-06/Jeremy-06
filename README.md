@@ -38,9 +38,10 @@
 ---
 
 ## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jeremy-06&show_icons=true&cache_seconds=1800&theme=radical" alt="Jeremy's GitHub stats" width="400" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeremy-06&layout=compact&cache_seconds=1800&theme=radical" alt="Top Langs" width="400" height="150"/>
+
+<p align="center" style="display: flex; flex-wrap: nowrap; justify-content: center; align-items: center; gap: 12px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jeremy-06&show_icons=true&cache_seconds=1800&theme=radical" alt="Jeremy's GitHub stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeremy-06&layout=compact&cache_seconds=1800&theme=radical" alt="Top Langs" height="150"/>
 </p>
 
 ---
@@ -51,16 +52,16 @@
 <p align="center">
   <a href="" title="LinkedIn" style="margin: 0 24px;">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="56" height="56" />
-  </a>
+  </a><!---->
   <a href="" title="Email" style="margin: 0 24px;">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="56" height="56" />
-  </a>
+  </a><!---->
   <a href="" title="Facebook" style="margin: 0 24px;">
     <img src="https://img.icons8.com/color/96/000000/facebook-new.png" alt="Facebook" width="56" height="56" />
-  </a>
+  </a><!---->
   <a href="" title="Instagram" style="margin: 0 24px;">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="56" height="56" />
-  </a>
+  </a><!---->
 </p>
 </span>
 
