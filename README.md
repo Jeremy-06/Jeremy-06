@@ -48,22 +48,20 @@
 
 ## 🔗 Connect with me
 
-<span>
-<p align="center">
-  <a href="" title="LinkedIn" style="margin: 0 24px;">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="56" height="56" />
-  </a><!---->
-  <a href="" title="Email" style="margin: 0 24px;">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="56" height="56" />
-  </a><!---->
-  <a href="" title="Facebook" style="margin: 0 24px;">
-    <img src="https://img.icons8.com/color/96/000000/facebook-new.png" alt="Facebook" width="56" height="56" />
-  </a><!---->
-  <a href="" title="Instagram" style="margin: 0 24px;">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="56" height="56" />
-  </a><!---->
+ <p align="center" style="margin: 0;">
+    <a href="" title="LinkedIn" style="margin: 0 24px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="56" height="56" />
+    </a>
+    <a href="ronjeremy.primavera@tup.edu.ph" title="Email" style="margin: 0 24px;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="56" height="56" />
+    </a>
+    <a href="https://www.facebook.com/ronjeremyp" title="Facebook" style="margin: 0 24px;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg" alt="Facebook" width="56" height="56" style="background: #1877F2; border-radius: 12px; padding: 8px;" />
+    </a>
+    <a href="https://instagram.com/rjirimiii" title="Instagram" style="margin: 0 24px;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="56" height="56" />
+    </a>
 </p>
-</span>
 
 
 ---
