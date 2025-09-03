@@ -5,14 +5,11 @@
 </span>
 
 ---
-
 🎓 **IT Student** | 💡 Tech Enthusiast | 🚀 Lifelong Learner
-
 ---
 
 ## 🧑🏻‍💻 About Me
-
-- 🎯 Proficient in: **C++, Visual Basic, HTML, CSS, C#, SQL**
+- 🎯 Proficient in: **C++, Visual Basic, HTML, CSS, JavaScript, C#, SQL**
 - 🛠️ Currently applying these languages in various projects to master them
 - 📚 Interested in web development, databases, and software engineering
 - 🤝🏼 Open to collaborating on student projects, open-source, or hackathons
@@ -20,13 +17,13 @@
 ---
 
 ## 🛠️ Languages & Tools
-
 <span>
   <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualbasic/visualbasic-original.svg" alt="Visual Basic" width="48" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="48" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL/SQL" width="48" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="48" height="48"/>
@@ -38,7 +35,6 @@
 ---
 
 ## 📈 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jeremy-06&show_icons=true&cache_seconds=1800&theme=radical" alt="Jeremy's GitHub stats" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeremy-06&layout=compact&cache_seconds=1800&theme=radical" alt="Top Langs" height="150"/>
@@ -47,7 +43,6 @@
 ---
 
 ## 🔗 Connect with me
-
  <p align="center" style="margin: 0;">
     <a href="" title="LinkedIn" style="margin: 0 24px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="56" height="56" />
@@ -63,8 +58,6 @@
     </a>
 </p>
 
-
 ---
 
-<p align="center"><em>“Learning by doing is the best way to master any skill. Let's build, break, and learn together!”</em></p>
-
+<p align="center"><em>"Learning by doing is the best way to master any skill. Let's build, break, and learn together!"</em></p>
